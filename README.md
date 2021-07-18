@@ -1,2 +1,2 @@
-# ebbresume.com
+# ebbresume
 This is my resume.
